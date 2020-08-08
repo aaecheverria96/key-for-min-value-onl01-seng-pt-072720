@@ -8,3 +8,4 @@ def key_for_min_value(hash)
     end
     return "#{key}"
 end
+end 
